@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jul 29 16:19:24 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-016c-3d59-630e-00000efacdb8 
+on database directory memory:/home/qapitol/AutomationByVenky/Venkatesh-API-Data/testdb with class loader org.springframework.boot.loader.LaunchedURLClassLoader@1c20c684 
+Loaded from jar:file:/home/qapitol/AutomationByVenky/Venkatesh-API-Data/target/Venkatesh-API-Data-0.0.1-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.12.1.1.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_212-8u212-b03-0ubuntu1.16.04.1-b03
+user.dir=/home/qapitol/AutomationByVenky/Venkatesh-API-Data
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-55-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
